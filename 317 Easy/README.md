@@ -1,0 +1,1 @@
+These both work. You can pick and choose syntax as you wish.
