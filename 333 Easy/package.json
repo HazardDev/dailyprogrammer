@@ -1,0 +1,8 @@
+{
+  "name": "333-easy",
+  "version": "0.0.0",
+  "description": "/r/dailyprogrammer 333 Easy",
+  "main": "index.js",
+  "author": "Logan Saso",
+  "license": "MIT"
+}
